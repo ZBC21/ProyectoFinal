@@ -11,7 +11,7 @@
 
 - 📝 I write tech blogs on [https://medium.com/@ZBC21](https://medium.com/@ZBC21)
 
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
+- 💬 Ask me about **Python, Java, JavaScript, html, css,  , C++, GitHub, Git, SQL, **
 
 - 📫 How to reach me **pepezhangbc21@gmail.com**
 
