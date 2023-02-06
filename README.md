@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
-<h3 align="center">BI & Big Data Engineer | Data Science</h3>
+<h1 align="center">Hi 👋, I'm Zhangbei Chen</h1>
+<h3 align="center">Computer Science Engineering</h3>
 
-- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
+- I'm currently Studing at the UEM (Universidad Europea de Madrid)
+<!--  - 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
 - 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
 - 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
+-->
 
 - 👨‍💻 Some of my fun projects are available at [https://ZhangbeiChen.me/]
 
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ZBC21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ZBC21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ZBC21" height="30" width="40" /></a>
 <a href="https://medium.com/@ZBC21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ZBC21.data" height="30" width="40" /></a>
 </p>
 
